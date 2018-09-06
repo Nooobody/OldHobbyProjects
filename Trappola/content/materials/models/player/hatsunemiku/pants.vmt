@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\hatsunemiku\pants"
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

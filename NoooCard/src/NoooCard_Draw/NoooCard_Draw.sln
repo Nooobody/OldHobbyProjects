@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoooCard_Draw", "NoooCard_Draw\NoooCard_Draw.vcxproj", "{5845D5C3-F6A0-43D7-90FC-5997543AA53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5845D5C3-F6A0-43D7-90FC-5997543AA53C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5845D5C3-F6A0-43D7-90FC-5997543AA53C}.Debug|Win32.Build.0 = Debug|Win32
+		{5845D5C3-F6A0-43D7-90FC-5997543AA53C}.Release|Win32.ActiveCfg = Release|Win32
+		{5845D5C3-F6A0-43D7-90FC-5997543AA53C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

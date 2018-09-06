@@ -1,0 +1,6 @@
+"Eyeball"
+{
+	"$baseTexture" "models\sonic\pupil"
+	
+	"$halflambert" 1
+}

@@ -1,0 +1,7 @@
+"SpaceAge"
+{
+	"base"		"sandbox"
+	"title"		"SpaceAge -Reloaded-"
+	"maps"		"^sa_"
+	"menusystem"	"1"
+}

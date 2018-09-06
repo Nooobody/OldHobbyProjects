@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\hatsunemiku\hilight"
+//	"$nocull" 1
+//	"$nodecal" 1
+	"$translucent" 1
+	"$halflambert" 1
+}

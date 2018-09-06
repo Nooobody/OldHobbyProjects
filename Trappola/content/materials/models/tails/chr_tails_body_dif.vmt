@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\tails/chr_tails_body_dif"
+	"$normalmap"   "models\tails/chr_tails_body_nrm"
+	"$halflambert" "1"
+}

@@ -1,0 +1,6 @@
+"Eyeball"
+{
+	"$baseTexture" "models\tails\pupil"
+	
+	"$halflambert" 1
+}

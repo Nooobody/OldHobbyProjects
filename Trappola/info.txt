@@ -1,0 +1,15 @@
+"Gamemode"
+{
+ 	"name"		"Trappola"
+ 	"version"	"1.0" 
+ 	"up_date"	"08/29/2010"
+ 
+ 	"author_name"	"Nooobody"
+ 	"author_email"	"someonebabe@hotmail.com"
+ 	"author_url"	"something.com"
+ 
+ 	"info"		"Trappolo"
+ 	"icon" 	 	""
+ 	"hide"		"0"
+}
+ 

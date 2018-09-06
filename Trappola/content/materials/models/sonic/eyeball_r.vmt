@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/sonic/eyeball_r"
+	"$iris" "models/sonic/pupil"
+	"$halflambert" 1
+	
+}

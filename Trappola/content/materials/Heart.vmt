@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Heart"
+	"$vertexalpha" "1"
+	"$vertexcolor" "1"
+	"$translucent" "1"
+	"$additive" "1"
+}

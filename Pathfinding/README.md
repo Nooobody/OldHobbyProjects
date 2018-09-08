@@ -1,4 +1,4 @@
-# Nooocard
+# Maze generation with A* Pathfinding
 
 A C++ project that utilizes the A* algorithm for pathfinding and also generates a random maze.
 
